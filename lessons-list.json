@@ -2,11 +2,13 @@
     "id":"1021",
     "name":"Aqidaga oid 200 savol-javob",
     "picture":"https://archive.org/services/img/arafatbinhassan-Ousoul_Sounnah/full/pct:500/0/default.jpg",
-    "lessons":[]
+    "lessons":[],
+    "type":"aqida"
 },
 {
     "id":"1020",
-    "name":"Tavhid Dardi",
+    "name":"Tavhid kitobi",
     "picture":"https://archive.org/services/img/arafatbinhassan-Ousoul_Sounnah/full/pct:500/0/default.jpg",
-    "lessons":[]
+    "lessons":[],
+    "type":"aqida"
 }]
